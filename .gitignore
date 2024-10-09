@@ -1,0 +1,8 @@
+.aws-sam
+venv/
+preferences.h
+preferences.py
+template.yaml
+toy.py
+samconfig.toml
+.DS_Store
